@@ -12,3 +12,10 @@ h1 {
 	font-weight: 200;
 	color: #FF710C;
 }
+
+h3 {
+	font-family: 'SEGA LOGO FONT';
+	font-weight: 200;
+	color: #A1303D;
+	word-spacing: 0.5em;
+}
